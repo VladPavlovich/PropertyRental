@@ -1,4 +1,4 @@
-# projectappreact
+# Property Rental App
 This app lets user create account using email and password. This also alows user to reserve a house listing and shows it in their trips tab.
 
 #Functionality
